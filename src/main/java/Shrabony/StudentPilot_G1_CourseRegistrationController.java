@@ -4,7 +4,7 @@ import javafx.event.ActionEvent;
 import javafx.scene.control.ComboBox;
 import javafx.scene.control.TextField;
 
-public class G1_StudentPilot_CourseRegistrationController
+public class StudentPilot_G1_CourseRegistrationController
 {
     @javafx.fxml.FXML
     private ComboBox flightCourseComboBox;
