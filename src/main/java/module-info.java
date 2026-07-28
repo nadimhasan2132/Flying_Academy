@@ -9,4 +9,7 @@ module org.example.flight_training_academy {
     opens Exam_Evaluator to javafx.fxml;
     exports Finance_Officer;
     opens Finance_Officer to javafx.fxml;
+
+    opens Shrabony to javafx.fxml;
+    exports Shrabony;
 }
